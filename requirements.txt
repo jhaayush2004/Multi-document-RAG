@@ -1,0 +1,10 @@
+weaviate-client 
+langchain 
+tiktoken 
+pypdf 
+rapidocr-onnxruntime
+langchain-community
+sentence-transformers
+huggingface_hub
+pymupdf
+streamlit
