@@ -12,7 +12,7 @@ from langchain.schema.runnable import RunnablePassthrough
 
 # Environment variables
 WEAVIATE_CLUSTER="https://g5ydc6potuimpatrebbokg.c0.europe-west3.gcp.weaviate.cloud"
-WEAVIATE_API_KEY="EpVfZ41a6mUtFpZo8KwOjAxjP5sUOjfi01yK"
+WEAVIATE_API_KEY="***************************************"
 
 # Initialize Weaviate client
 import weaviate
